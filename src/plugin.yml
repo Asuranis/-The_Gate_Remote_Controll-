@@ -8,6 +8,6 @@ depend: [The_Gate]
 softdepend: [dynmap]
 commands:
   GetGRC:
-    description: Obtains GCR.
+    description: Obtains GRC.
     usage: /GetGRC
     aliases: []
