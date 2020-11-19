@@ -1,0 +1,13 @@
+name: GRC
+version: build4-v0.1.10-3mc1.16.4
+main: cz.grc.Main_GRC
+authors: ['Domavatus']
+api-version: 1.16
+load: POSTWORLD
+depend: [The_Gate]
+softdepend: [dynmap]
+commands:
+  GetGRC:
+    description: Obtains GCR.
+    usage: /getgcr
+    aliases: []
