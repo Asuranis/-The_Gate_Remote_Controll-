@@ -9,5 +9,5 @@ softdepend: [dynmap]
 commands:
   GetGRC:
     description: Obtains GCR.
-    usage: /getgcr
+    usage: /GetGRC
     aliases: []
