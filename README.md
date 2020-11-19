@@ -1,7 +1,7 @@
 # -The_Gate_Remote_Controll-
 
 
-An addon for spigot plugin
+An unofficial extension for spigot plugin
 https://www.spigotmc.org/resources/the-gate.70247/
 
 Functionality:
