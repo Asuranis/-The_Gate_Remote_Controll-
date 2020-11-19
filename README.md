@@ -10,3 +10,5 @@ Commands:
 /getgrc to obtain remote controll for gate
 
 If Dynmap plugin is detected markups are created/refreshed.
+
+Experimental code for vehicles teleportation throught gates
